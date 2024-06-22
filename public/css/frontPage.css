@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    margin: 10px;
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+margin: auto;  
+  width: 100px;
+  padding: 10px;
+}
+
+.box a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.box a:hover {
+    color: #007bff;
+}
+
+.box a:visited {
+    color: #6c757d;
+}
+
+.box a:active {
+    color: #0056b3;
+}
